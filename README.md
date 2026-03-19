@@ -34,7 +34,7 @@ This is why you’ll find here a practical collection of startup resources, tips
 - [🔥 Conversion Rate Optimization](#-conversion-rate-optimization)
 - [💡 Idea Validation](#-idea-validation)
 - [⚗ User Research](#-user-research)
-- [🤖 Claude Code Marketing Skills](#-claude-code-marketing-skills) _**NEW!**_
+- [🤖 Skills](#-skills) _**NEW!**_
 - [🧨 Other resources](#-other-resources)
 
 _**PS. Leave me a star ⭐ or [say Hi on X/Twitter](https://x.com/e_stradella) if you find this useful!**_
